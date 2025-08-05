@@ -19,17 +19,18 @@ body{
 }
 
 
-#ex-2{
+#ex-2 {
     display: grid;
-    grid-template-columns: repeat(10, 1fr)
-  }
+}
+
 
 button{
-      width: 50px;
+      width: 60px;
       height: 15px;
-      background-color: grey; 
+      background-color: rgb(222, 152, 152);
   }
   
 .exercise {
     margin-bottom: 10px;
 }
+
